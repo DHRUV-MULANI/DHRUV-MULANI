@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=50&duration=1&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey!+I'm+Dhruvkumar+Mulani;Cybersecurity+Researcher;Security+Engineer;CTF+Player&repeat=true" alt="Dhruvkumar Mulani"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=50&duration=1&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey!+I'm+Dhruv+Mulani;Cybersecurity+Researcher;Security+Engineer;CTF+Player&repeat=true" alt="Dhruvkumar Mulani"/>
 </h1>
 
 <p align="center">
@@ -149,7 +149,7 @@ I am a final year Computer Engineering student with a strong passion for **Cyber
 ## <img src="https://cdn.simpleicons.org/githubactions" width="24" valign="middle"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DHRUV-MULANI&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DHRUV-MULANI&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -163,9 +163,8 @@ I am a final year Computer Engineering student with a strong passion for **Cyber
 
 <h4 align="center">Contribution Graph</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DHRUV-MULANI/DHRUV-MULANI/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUV-MULANI&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </p>
-
 ---
 
 <!-- Footer Section -->
