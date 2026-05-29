@@ -29,48 +29,86 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/aboutdotme" width="24"> About Me & Snapshot
+## <img src="https://cdn.simpleicons.org/readdotcv" width="24" valign="middle"> About Me & Snapshot
 
 I am a final year Computer Engineering student with a strong passion for **Cybersecurity, Security Research, Vulnerability Assessment, Digital Forensics, OSINT,** and **Security Automation**. I actively participate in CTF competitions, bug bounty programs, and security challenges to hone my practical offensive and defensive skills. I enjoy building security-focused products and automation platforms that solve real-world problems.
 
 | Category | Details |
 |----------|---------|
-| <img src="https://cdn.simpleicons.org/gitbook" width="16" valign="middle"> **Education** | Final Year B.E. Computer Engineering @ IITRAM, Ahmedabad |
-| <img src="https://cdn.simpleicons.org/shield" width="16" valign="middle"> **Focus Area** | Cybersecurity, Security Research, Web Security, Cloud Security |
-| <img src="https://cdn.simpleicons.org/target" width="16" valign="middle"> **Specialization**| VAPT, OSINT, DFIR, Reverse Engineering, Malware Analysis |
-| <img src="https://cdn.simpleicons.org/tryhackme" width="16" valign="middle"> **Top Ranking** | Top 4% on TryHackMe |
-| <img src="https://cdn.simpleicons.org/rocket" width="16" valign="middle"> **Current Mission**| Building LOGify, Expanding Research, Playing Competitive CTFs |
+| **Education** | Final Year B.E. Computer Engineering @ IITRAM, Ahmedabad |
+| **Focus Area** | Cybersecurity, Security Research, Web Security, Cloud Security |
+| **Specialization**| VAPT, OSINT, DFIR, Reverse Engineering, Malware Analysis |
+| **Top Ranking** | Top 4% on TryHackMe |
+| **Current Mission**| Building LOGify, Expanding Research, Playing Competitive CTFs |
 
 ---
 
-## <img src="https://cdn.simpleicons.org/stackshare" width="24"> Tech Stack & Security Arsenal
+## <img src="https://cdn.simpleicons.org/kalilinux" width="24" valign="middle"> Security Arsenal & Domains
 
+<h4 align="center">Security Domains</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,html,css,mysql,firebase,linux,bash,git,docker" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Red_Teaming-E34F26?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT-0055FF?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Digital_Forensics-4CAF50?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Bug_Bounty-FF9900?style=for-the-badge&logo=bugcrowd&logoColor=white">
+  <img src="https://img.shields.io/badge/Web_Security-8A2BE2?style=for-the-badge&logo=owasp&logoColor=white">
 </p>
 
 <h4 align="center">Core Security Tools</h4>
 <p align="center">
-  <code>Burp Suite</code> • <code>Nmap</code> • <code>Wireshark</code> • <code>Metasploit</code> • <code>SQLMap</code> • <code>Nessus</code>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-224488?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge">
 </p>
-
-<h4 align="center">Security Domains</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Teaming-E34F26?style=flat-square&logo=target">
-  <img src="https://img.shields.io/badge/OSINT-0055FF?style=flat-square&logo=google">
-  <img src="https://img.shields.io/badge/Digital%20Forensics-4CAF50?style=flat-square&logo=linux">
-  <img src="https://img.shields.io/badge/Bug%20Bounty-FF9900?style=flat-square&logo=bugcrowd">
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-8A2BE2?style=flat-square&logo=reverse">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker" alt="Security Infrastructure" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/opensourceinitiative" width="24"> Featured Projects
+## <img src="https://cdn.simpleicons.org/tryhackme" width="24" valign="middle"> Achievements & Certifications
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/databricks" width="20" valign="middle"> LOGify</h3>
+      <h3>Achievements</h3>
+      <ul>
+        <li><b>Winner</b> — Cyber Shadez'26 National TechFest (Bug Bounty)</li>
+        <li><b>14th Place</b> — ISEA-ISAP CTF'26 (IIT Madras)</li>
+        <li><b>Top 4%</b> — TryHackMe</li>
+        <li><b>Appreciation</b> — SarthiBus Financial Tampering Discovery</li>
+        <li><b>Active Participant</b> — VishvaCTF, AsurCTF, DoomsplayCTF, Hack The Box, NeuraCode AI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Certifications</h3>
+      <ul>
+        <li>Belkasoft Windows Forensics</li>
+        <li>Belkasoft Advanced Forensics</li>
+        <li>Cybersecurity & Ethical Hacking Internship</li>
+        <li>VAPT Internship Experience</li>
+        <li>IIT Bombay Technical Workshop</li>
+        <li>TryHackMe — Love At First Breach</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Boss.Hack3r.png" alt="TryHackMe Badge"/>
+</p>
+
+---
+
+## <img src="https://cdn.simpleicons.org/github" width="24" valign="middle"> Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://cdn.simpleicons.org/python" width="20" valign="middle"> LOGify</h3>
       <p>A complete Cloud Native Log Management Platform combining a powerful CLI Agent with a modern cloud dashboard.</p>
       <b>Highlights:</b>
       <ul>
@@ -100,41 +138,15 @@ I am a final year Computer Engineering student with a strong passion for **Cyber
 
 ---
 
-## <img src="https://cdn.simpleicons.org/trophy" width="24"> Achievements & Certifications
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/trophy" width="20" valign="middle"> Achievements</h3>
-      <ul>
-        <li><b>Winner</b> — Cyber Shadez'26 National TechFest (Bug Bounty)</li>
-        <li><b>14th Place</b> — ISEA-ISAP CTF'26 (IIT Madras)</li>
-        <li><b>Top 4%</b> — TryHackMe</li>
-        <li><b>Appreciation</b> — SarthiBus Financial Tampering Discovery</li>
-        <li><b>Active Participant</b> — VishvaCTF, AsurCTF, DoomsplayCTF, Hack The Box, NeuraCode AI</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/openbadges" width="20" valign="middle"> Certifications</h3>
-      <ul>
-        <li>Belkasoft Windows Forensics</li>
-        <li>Belkasoft Advanced Forensics</li>
-        <li>Cybersecurity & Ethical Hacking Internship</li>
-        <li>VAPT Internship Experience</li>
-        <li>IIT Bombay Technical Workshop</li>
-        <li>TryHackMe — Love At First Breach</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## <img src="https://cdn.simpleicons.org/stackshare" width="24" valign="middle"> Software & Tech Stack
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Boss.Hack3r.png" alt="TryHackMe Badge"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,html,css,mysql,firebase" alt="Tech Stack" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github" width="24"> GitHub Analytics
+## <img src="https://cdn.simpleicons.org/githubactions" width="24" valign="middle"> GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DHRUV-MULANI&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
@@ -149,7 +161,7 @@ I am a final year Computer Engineering student with a strong passion for **Cyber
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-MULANI&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-<h4 align="center">Contribution Snake</h4>
+<h4 align="center">Contribution Graph</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/DHRUV-MULANI/DHRUV-MULANI/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
