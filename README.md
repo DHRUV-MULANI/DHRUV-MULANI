@@ -145,26 +145,26 @@ I am a final year Computer Engineering student with a strong passion for **Cyber
 </p>
 
 ---
-
 ## <img src="https://cdn.simpleicons.org/githubactions" width="24" valign="middle"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DHRUV-MULANI&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-mulani&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHRUV-MULANI&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-MULANI&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-mulani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-mulani&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-MULANI&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-mulani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" />
 </p>
 
 <h4 align="center">Contribution Graph</h4>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUV-MULANI&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-mulani&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </p>
+
 ---
 
 <!-- Footer Section -->
